@@ -87,7 +87,7 @@ background:#eee;
 border-radius:4px
 }
 header a:focus{
-color:#3498db;
+color:#FFD200;
 text-decoration:none
 }
 header.active{
@@ -106,7 +106,7 @@ cursor:pointer;
 position:fixed;
 right:15px;
 top:10px;
-color:#3498db;
+color:#FFD200;
 font-size:1.5em;
 z-index:20;
 padding:0 7px;
@@ -122,7 +122,7 @@ font-size:1.5em;
 padding-right:15px;
 padding-top:10px;
 cursor:pointer;
-color:#3498db
+color:#FFD200
 }
 #mobile-menu-close span{
 font-size:0.5em;
@@ -179,7 +179,7 @@ color:#74808a;
 padding:10px
 }
 .social a:hover{
-color:#3498db
+color:#FFD200
 }
 .btn-rounded-white{
 display:inline-block;
@@ -190,7 +190,7 @@ border-radius:30px;
 transition:.5s ease all
 }
 .btn-rounded-white:hover{
-color:#3498db;
+color:#FFD200;
 background:#fff;
 text-decoration:none
 }
